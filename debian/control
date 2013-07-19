@@ -1,0 +1,12 @@
+Source: ros-hydro-pano-core
+Section: misc
+Priority: extra
+Maintainer: "Jihoon Lee <jihoonlee.in@gmail.com>"
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-cv-bridge, ros-hydro-roscpp
+Homepage: http://ros.org/wiki/pano_core
+Standards-Version: 3.9.2
+
+Package: ros-hydro-pano-core
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-cv-bridge, ros-hydro-roscpp
+Description: Library for the opencv-based panorama stitching algorithm

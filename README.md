@@ -1,3 +1,34 @@
+## turtlebot_apps - 2.1.1-0
+
+User `jorge@concert` released the packages in the `turtlebot_apps` repository by running `/usr/bin/bloom-release --track hydro --rosdistro hydro turtlebot_apps` on `Mon, 22 Jul 2013 11:24:39 -0000`
+
+These packages were released:
+- `pano_core`
+- `pano_py`
+- `pano_ros`
+- `turtlebot_actions`
+- `turtlebot_apps`
+- `turtlebot_calibration`
+- `turtlebot_core_apps`
+- `turtlebot_follower`
+- `turtlebot_navigation`
+- `turtlebot_panorama`
+- `turtlebot_sounds`
+- `turtlebot_teleop`
+
+Version of package(s) in repository `turtlebot_apps`:
+- rosdistro version: `2.1.0-3`
+- old version: `2.1.0-3`
+- new version: `2.1.1-0`
+
+Versions of tools used:
+- bloom version: `0.4.3`
+- catkin_pkg version: `0.1.19`
+- rosdep version: `0.10.21`
+- rosdistro version: `0.2.13`
+- vcstools version: `0.1.31`
+
+
 ## turtlebot_apps - 2.1.0-3
 
 User `jorge@concert` released the packages in the `turtlebot_apps` repository by running `/usr/bin/bloom-release --track hydro --rosdistro hydro turtlebot_apps` on `Fri, 19 Jul 2013 00:59:11 -0000`

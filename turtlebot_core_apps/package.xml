@@ -16,12 +16,12 @@
   <run_depend>turtlebot_follower</run_depend>
   <run_depend>turtlebot_navigation</run_depend>
   <run_depend>turtlebot_panorama</run_depend>
-  <run_depend>turtlebot_sounds</run_depend>
   <run_depend>turtlebot_teleop</run_depend>
 
   <!-- for navigation apps -->
   <run_depend>warehouse_ros</run_depend>
   <run_depend>map_store</run_depend>
+  <run_depend>tf</run_depend>
 
   <!-- android_teleop -->
   <run_depend>compressed_image_transport</run_depend>

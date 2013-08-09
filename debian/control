@@ -1,0 +1,12 @@
+Source: ros-hydro-turtlebot-navigation
+Section: misc
+Priority: extra
+Maintainer: OSRF <turtlebot@osrfoundation.org>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-gmapping, ros-hydro-move-base, ros-hydro-tf, ros-hydro-turtlebot-bringup
+Homepage: http://ros.org/wiki/turtlebot_navigation
+Standards-Version: 3.9.2
+
+Package: ros-hydro-turtlebot-navigation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-gmapping, ros-hydro-move-base, ros-hydro-tf, ros-hydro-turtlebot-bringup
+Description: turtlebot_navigation

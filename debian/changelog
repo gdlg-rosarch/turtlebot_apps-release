@@ -1,0 +1,21 @@
+ros-hydro-pano-ros (2.2.0-0raring) raring; urgency=high
+
+  * Fixed red and blue flipped image of stitched panorama image.
+  * Add bugtracker and repo info URLs.
+  * Changelogs at package level.
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-pano-ros (2.1.1-0raring) raring; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 08 Aug 2013 15:00:00 -0000
+
+ros-hydro-pano-ros (2.1.0-0raring) raring; urgency=high
+
+  * Catikinized
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 18 Jul 2013 15:00:00 -0000
+
+

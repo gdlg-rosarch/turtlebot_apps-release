@@ -1,0 +1,20 @@
+ros-hydro-turtlebot-calibration (2.2.0-0precise) precise; urgency=high
+
+  * Add bugtracker and repo info URLs.
+  * Changelogs at package level.
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-calibration (2.1.1-0precise) precise; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 08 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-calibration (2.1.0-0precise) precise; urgency=high
+
+  * Catkinized
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 18 Jul 2013 15:00:00 -0000
+
+

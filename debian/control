@@ -1,0 +1,12 @@
+Source: ros-hydro-turtlebot-calibration
+Section: misc
+Priority: extra
+Maintainer: OSRF <turtlebot@osrfoundation.org>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin, ros-hydro-geometry-msgs, ros-hydro-message-generation, ros-hydro-nav-msgs, ros-hydro-python-orocos-kdl, ros-hydro-rospy, ros-hydro-sensor-msgs, ros-hydro-std-msgs
+Homepage: http://ros.org/wiki/turtlebot_calibration
+Standards-Version: 3.9.2
+
+Package: ros-hydro-turtlebot-calibration
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-geometry-msgs, ros-hydro-message-runtime, ros-hydro-nav-msgs, ros-hydro-python-orocos-kdl, ros-hydro-rospy, ros-hydro-sensor-msgs, ros-hydro-std-msgs, ros-hydro-turtlebot-bringup
+Description: turtlebot_calibration

@@ -1,0 +1,46 @@
+ros-hydro-turtlebot-core-apps (2.2.2-0quantal) quantal; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Wed, 25 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-core-apps (2.2.1-0quantal) quantal; urgency=high
+
+  * Set of fixes to make it work with Android apps.
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Sun, 22 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-core-apps (2.2.0-0quantal) quantal; urgency=high
+
+  * Remove redundant rapp information.
+  * Add auto shutdown functionality on auto_docking.
+  * Add bugtracker and repo info URLs.
+  * Rename include launchers to *.launch.xml.
+  * Changelogs at package level.
+  * Use a private warehouse port.
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-core-apps (2.1.1-0quantal) quantal; urgency=high
+
+  * Fix namespaces for auto docking app
+  * Add various changes to enable android apps (w/ and w/o pairing mode)
+  * Add rapp files for map manager app
+  * Update interface files for ps3 & xbox360 rapps
+  * Update panorama rapp files
+  * Add linux.ros. to platform name
+  * Rename all .app extensions as .rapp
+  * Remove our beloved chirp app. Don't worry; it's now included on rocon_apps
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 08 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-core-apps (2.1.0-0quantal) quantal; urgency=high
+
+  * Catkinized
+  * map_store is now catkinized
+  * Remove legacy code
+  * Prepare for new app manager
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 18 Jul 2013 15:00:00 -0000
+
+

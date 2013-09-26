@@ -1,0 +1,12 @@
+Source: ros-hydro-turtlebot-actions
+Section: misc
+Priority: extra
+Maintainer: OSRF <turtlebot@osrfoundation.org>
+Build-Depends: debhelper (>= 7.0.50~), libeigen3-dev, ros-hydro-actionlib, ros-hydro-actionlib-msgs, ros-hydro-catkin, ros-hydro-cv-bridge, ros-hydro-geometry-msgs, ros-hydro-image-geometry, ros-hydro-image-transport, ros-hydro-message-generation, ros-hydro-roscpp, ros-hydro-tf
+Homepage: http://ros.org/wiki/turtlebot_actions
+Standards-Version: 3.9.2
+
+Package: ros-hydro-turtlebot-actions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-hydro-actionlib, ros-hydro-actionlib-msgs, ros-hydro-cv-bridge, ros-hydro-geometry-msgs, ros-hydro-image-geometry, ros-hydro-image-transport, ros-hydro-message-runtime, ros-hydro-roscpp, ros-hydro-tf, ros-hydro-turtlebot-bringup
+Description: turtlebot_actions provides several basic actionlib actions for the TurtleBot.

@@ -1,0 +1,38 @@
+ros-hydro-turtlebot-apps (2.2.3-1raring) raring; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 26 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-apps (2.2.2-1raring) raring; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Wed, 25 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-apps (2.2.1-1raring) raring; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Sun, 22 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-apps (2.2.0-1raring) raring; urgency=high
+
+  * Changelogs at package level.
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-apps (2.1.1-1raring) raring; urgency=high
+
+  * Remove our beloved chirp app. Don't worry; it's now included on rocon_apps
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 08 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-apps (2.1.0-1raring) raring; urgency=high
+
+  * Catkinized
+  * Needs to specify any individual panorama packages. Release complains if not
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 18 Jul 2013 15:00:00 -0000
+
+

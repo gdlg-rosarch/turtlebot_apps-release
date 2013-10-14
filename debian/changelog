@@ -1,0 +1,46 @@
+ros-hydro-turtlebot-follower (2.2.4-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Sun, 13 Oct 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-follower (2.2.3-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 26 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-follower (2.2.2-0precise) precise; urgency=high
+
+  * Use service files to turtlebot_msgs.
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Wed, 25 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-follower (2.2.1-0precise) precise; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Sun, 22 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-follower (2.2.0-0precise) precise; urgency=high
+
+  * Rename include launchers to *.launch.xml.
+  * Changelogs at package level.
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-follower (2.1.1-0precise) precise; urgency=high
+
+  * Fix namespace issues
+  * Rationalize the use of velocity smoother: remap properly robot_cmd_vel, add comments, and avoid meaningless topic names
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 08 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-follower (2.1.0-0precise) precise; urgency=high
+
+  * Catkinized
+  * Unexistent include dir removed from package description
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 18 Jul 2013 15:00:00 -0000
+
+

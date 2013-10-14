@@ -1,0 +1,47 @@
+ros-hydro-turtlebot-actions (2.2.4-0precise) precise; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Sun, 13 Oct 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-actions (2.2.3-0precise) precise; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 26 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-actions (2.2.2-0precise) precise; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Wed, 25 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-actions (2.2.1-0precise) precise; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Sun, 22 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-actions (2.2.0-0precise) precise; urgency=high
+
+  * Add bugtracker and repo info URLs.
+  * Rename include launchers to *.launch.xml.
+  * Changelogs at package level.
+  * Do not use deprecated action server API.
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-actions (2.1.1-0precise) precise; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 08 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-actions (2.1.0-0precise) precise; urgency=high
+
+  * Catkinized
+  * Set OSRF as maintainer
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 18 Jul 2013 15:00:00 -0000
+
+

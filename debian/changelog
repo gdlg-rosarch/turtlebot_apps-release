@@ -1,0 +1,58 @@
+ros-hydro-turtlebot-teleop (2.2.5-0raring) raring; urgency=high
+
+  * When deadman is not pressed publish once a zero twist to make the robot stop. Publisher is now latched as commented in https://github.com/turtlebot/turtlebot_apps/pull/75#issuecomment-33087125
+  * cmd_vel to 0 when deadman button is released
+  * Initialize deadman_pressed_ to false
+    Initalize deadman_pressed_ to false in order to avoid the effect described in https://github.com/turtlebot/turtlebot_apps/issues/71
+  * Contributors: MartinPeris, Martí Morta
+
+ -- Melonee Wise <mwise@willowgarage.com>  Mon, 24 Mar 2014 15:00:00 -0000
+
+ros-hydro-turtlebot-teleop (2.2.4-0raring) raring; urgency=high
+
+  * Remove unnecessary dependency on cmd_vel_mux package.
+
+ -- Melonee Wise <mwise@willowgarage.com>  Sun, 13 Oct 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-teleop (2.2.3-0raring) raring; urgency=high
+
+
+
+ -- Melonee Wise <mwise@willowgarage.com>  Thu, 26 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-teleop (2.2.2-0raring) raring; urgency=high
+
+
+
+ -- Melonee Wise <mwise@willowgarage.com>  Wed, 25 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-teleop (2.2.1-0raring) raring; urgency=high
+
+
+
+ -- Melonee Wise <mwise@willowgarage.com>  Sun, 22 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-teleop (2.2.0-0raring) raring; urgency=high
+
+  * Add bugtracker and repo info URLs.
+  * Changelogs at package level.
+
+ -- Melonee Wise <mwise@willowgarage.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-teleop (2.1.1-0raring) raring; urgency=high
+
+  * Add missing include_directories to the teleop build.
+  * Add absolute namespaces
+  * Rename include launcher
+  * Rationalize the use of velocity smoother: remap properly robot_cmd_vel, add comments, and avoid meaningless topic names
+
+ -- Melonee Wise <mwise@willowgarage.com>  Thu, 08 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-teleop (2.1.0-0raring) raring; urgency=high
+
+  * Catikinized
+  * Unexsistent include dir removed from package description
+
+ -- Melonee Wise <mwise@willowgarage.com>  Thu, 18 Jul 2013 15:00:00 -0000
+
+

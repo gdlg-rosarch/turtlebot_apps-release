@@ -2,6 +2,9 @@
 Changelog for package turtlebot_panorama
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.2.5 (2014-03-25)
+------------------
+
 2.2.4 (2013-10-14)
 ------------------
 * Place catkin_package before target generation; if not, the later is not generated

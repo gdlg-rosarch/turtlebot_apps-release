@@ -1,0 +1,52 @@
+ros-hydro-turtlebot-panorama (2.2.5-0raring) raring; urgency=high
+
+
+
+ -- Jorge Santos <jorge@yujinrobot.com>  Mon, 24 Mar 2014 15:00:00 -0000
+
+ros-hydro-turtlebot-panorama (2.2.4-0raring) raring; urgency=high
+
+  * Place catkin_package before target generation; if not, the later is not generated
+
+ -- Jorge Santos <jorge@yujinrobot.com>  Sun, 13 Oct 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-panorama (2.2.3-0raring) raring; urgency=high
+
+
+
+ -- Jorge Santos <jorge@yujinrobot.com>  Thu, 26 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-panorama (2.2.2-0raring) raring; urgency=high
+
+  * Use service files to turtlebot_msgs.
+
+ -- Jorge Santos <jorge@yujinrobot.com>  Wed, 25 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-panorama (2.2.1-0raring) raring; urgency=high
+
+
+
+ -- Jorge Santos <jorge@yujinrobot.com>  Sun, 22 Sep 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-panorama (2.2.0-0raring) raring; urgency=high
+
+  * Add bugtracker and repo info URLs.
+  * Changelogs at package level.
+  * 3d sensor; just start RGB processing
+
+ -- Jorge Santos <jorge@yujinrobot.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-panorama (2.1.1-0raring) raring; urgency=high
+
+  * Fix remappings
+
+ -- Jorge Santos <jorge@yujinrobot.com>  Thu, 08 Aug 2013 15:00:00 -0000
+
+ros-hydro-turtlebot-panorama (2.1.0-0raring) raring; urgency=high
+
+  * Catikinized
+  * Set Jorge Santos as maintainer
+
+ -- Jorge Santos <jorge@yujinrobot.com>  Thu, 18 Jul 2013 15:00:00 -0000
+
+

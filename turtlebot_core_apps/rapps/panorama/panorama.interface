@@ -1,5 +1,0 @@
-publishers:
-  - turtlebot_panorama/panorama/compressed
-subscribers: []
-services:
-  - turtlebot_panorama/take_pano

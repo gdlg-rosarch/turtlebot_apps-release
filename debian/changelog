@@ -1,0 +1,58 @@
+ros-indigo-turtlebot-calibration (2.3.1-0saucy) saucy; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-turtlebot-calibration (2.3.0-0saucy) saucy; urgency=high
+
+  * Merge pull request #83 <https://github.com/turtlebot/turtlebot_apps/issues/83> from kbogert/hydro-devel
+    Implement automatic calibration system
+  * Contributors: Jihoon Lee
+
+ -- OSRF <turtlebot@osrfoundation.org>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-turtlebot-calibration (2.2.4-0saucy) saucy; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Sun, 13 Oct 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-calibration (2.2.3-0saucy) saucy; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 26 Sep 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-calibration (2.2.2-0saucy) saucy; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Wed, 25 Sep 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-calibration (2.2.1-0saucy) saucy; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Sun, 22 Sep 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-calibration (2.2.0-0saucy) saucy; urgency=high
+
+  * Add bugtracker and repo info URLs.
+  * Changelogs at package level.
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-calibration (2.1.1-0saucy) saucy; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 08 Aug 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-calibration (2.1.0-0saucy) saucy; urgency=high
+
+  * Catkinized
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 18 Jul 2013 15:00:00 -0000
+
+

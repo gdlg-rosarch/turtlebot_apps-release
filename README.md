@@ -1,3 +1,34 @@
+## turtlebot_apps (indigo) - 2.3.1-0
+
+The packages in the `turtlebot_apps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release turtlebot_apps -t indigo -r indigo --new-track` on `Tue, 30 Dec 2014 06:04:31 -0000`
+
+These packages were released:
+- `pano_core`
+- `pano_py`
+- `pano_ros`
+- `turtlebot_actions`
+- `turtlebot_apps`
+- `turtlebot_calibration`
+- `turtlebot_follower`
+- `turtlebot_navigation`
+- `turtlebot_panorama`
+- `turtlebot_rapps`
+
+Version of package(s) in repository `turtlebot_apps`:
+- upstream repository: https://github.com/turtlebot/turtlebot_apps.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.3.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.16`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## turtlebot_apps (hydro) - 2.2.5-1
 
 The packages in the `turtlebot_apps` repository were released into the `hydro` distro by running `/usr/bin/bloom-release turtlebot_apps -t hydro -r hydro` on `Fri, 23 May 2014 02:13:17 -0000`

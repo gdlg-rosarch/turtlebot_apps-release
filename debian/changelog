@@ -1,0 +1,60 @@
+ros-indigo-pano-py (2.3.1-0saucy) saucy; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-pano-py (2.3.0-0saucy) saucy; urgency=high
+
+  * Small changes for readibility
+  * Remove unneccessary debug import
+  * Fixed description typo
+  * Upgrade turtlebot Panorama for indigo
+  * Contributors: kentsommer
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-pano-py (2.2.4-0saucy) saucy; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 13 Oct 2013 15:00:00 -0000
+
+ros-indigo-pano-py (2.2.3-0saucy) saucy; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 26 Sep 2013 15:00:00 -0000
+
+ros-indigo-pano-py (2.2.2-0saucy) saucy; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Wed, 25 Sep 2013 15:00:00 -0000
+
+ros-indigo-pano-py (2.2.1-0saucy) saucy; urgency=high
+
+
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Sun, 22 Sep 2013 15:00:00 -0000
+
+ros-indigo-pano-py (2.2.0-0saucy) saucy; urgency=high
+
+  * Add bugtracker and repo info URLs.
+  * Changelogs at package level.
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-pano-py (2.1.1-0saucy) saucy; urgency=high
+
+  * Catkinization-related fixes
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 08 Aug 2013 15:00:00 -0000
+
+ros-indigo-pano-py (2.1.0-0saucy) saucy; urgency=high
+
+  * Catikinized
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 18 Jul 2013 15:00:00 -0000
+
+

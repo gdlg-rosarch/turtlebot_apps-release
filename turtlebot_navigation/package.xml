@@ -1,6 +1,6 @@
 <package>
   <name>turtlebot_navigation</name>
-  <version>2.2.5</version>
+  <version>2.3.1</version>
   <description>turtlebot_navigation</description>
   <maintainer email="turtlebot@osrfoundation.org">OSRF</maintainer>
   <license>BSD</license>
@@ -23,19 +23,7 @@
   <run_depend>amcl</run_depend>
   <run_depend>gmapping</run_depend>
   <run_depend>turtlebot_bringup</run_depend>
-
-  <!-- Temporary solution until move_base gets its act together and sets these as
-      default runtime dependencies:
-          https://github.com/ros-planning/navigation/pull/107
-  -->
-  <build_depend>base_local_planner</build_depend>
-  <build_depend>clear_costmap_recovery</build_depend>
-  <build_depend>navfn</build_depend>
-  <build_depend>rotate_recovery</build_depend>
-  <run_depend>base_local_planner</run_depend>
-  <run_depend>clear_costmap_recovery</run_depend>
-  <run_depend>rotate_recovery</run_depend>
-  <run_depend>navfn</run_depend>
+  <run_depend>dwa_local_planner</run_depend>
 
   <export>
 

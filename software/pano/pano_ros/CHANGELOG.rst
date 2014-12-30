@@ -2,8 +2,16 @@
 Changelog for package pano_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.2.5 (2014-03-25)
+2.3.1 (2014-12-30)
 ------------------
+
+2.3.0 (2014-12-30)
+------------------
+* Small changes for readibility
+* Upgrade turtlebot Panorama for indigo
+* API reference fix for capture_server
+* Updated publisher queue_size to avoid warning on indigo for capture_server.py
+* Contributors: kentsommer
 
 2.2.4 (2013-10-14)
 ------------------

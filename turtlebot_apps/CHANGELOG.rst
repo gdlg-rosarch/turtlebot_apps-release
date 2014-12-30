@@ -2,8 +2,15 @@
 Changelog for package turtlebot_apps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.2.5 (2014-03-25)
+2.3.1 (2014-12-30)
 ------------------
+* remove turtlebot_telop from meta package
+* Contributors: Jihoon Lee
+
+2.3.0 (2014-12-30)
+------------------
+* turtlebot_core_apps -> turtlebot_rapps, `#86 <https://github.com/turtlebot/turtlebot_apps/issues/86>`_
+* Contributors: Daniel Stonier
 
 2.2.4 (2013-10-14)
 ------------------

@@ -2,8 +2,13 @@
 Changelog for package pano_core
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.2.5 (2014-03-25)
+2.3.1 (2014-12-30)
 ------------------
+
+2.3.0 (2014-12-30)
+------------------
+* Find OpenCV (fix `#78 <https://github.com/turtlebot/turtlebot_apps/issues/78>`_).
+* Contributors: Benjamin Chrétien
 
 2.2.4 (2013-10-14)
 ------------------

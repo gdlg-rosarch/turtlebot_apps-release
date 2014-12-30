@@ -2,8 +2,14 @@
 Changelog for package turtlebot_calibration
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.2.5 (2014-03-25)
+2.3.1 (2014-12-30)
 ------------------
+
+2.3.0 (2014-12-30)
+------------------
+* Merge pull request `#83 <https://github.com/turtlebot/turtlebot_apps/issues/83>`_ from kbogert/hydro-devel
+  Implement automatic calibration system
+* Contributors: Jihoon Lee
 
 2.2.4 (2013-10-14)
 ------------------

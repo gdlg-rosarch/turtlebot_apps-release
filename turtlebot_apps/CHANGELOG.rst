@@ -2,6 +2,9 @@
 Changelog for package turtlebot_apps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.3.2 (2015-01-21)
+------------------
+
 2.3.1 (2014-12-30)
 ------------------
 * remove turtlebot_telop from meta package

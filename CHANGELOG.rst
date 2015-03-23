@@ -2,6 +2,13 @@
 Changelog
 =========
 
+2.3.3 (2015-03-23)
+------------------
+* change default topic name of scan
+* update map nav to apply world canvas and map navigation android app
+* update make_a_map to apply world canvas
+* Contributors: dwlee
+
 2.3.2 (2015-01-21)
 ------------------
 * add robot_pose_publisher as run depend closes `#131 <https://github.com/turtlebot/turtlebot_apps/issues/131>`_

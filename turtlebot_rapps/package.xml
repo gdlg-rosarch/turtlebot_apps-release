@@ -1,6 +1,6 @@
 <package>
   <name>turtlebot_rapps</name>
-  <version>2.3.2</version>
+  <version>2.3.3</version>
   <description>The core set of turtlebot 'app manager' apps are defined in this package. </description>
 
   <maintainer email="stonier@rnd.yujinrobot.com">Daniel Stonier</maintainer>
@@ -24,6 +24,7 @@
   <!-- for navigation apps -->
   <run_depend>warehouse_ros</run_depend>
 <!--  <run_depend>map_store</run_depend>-->
+  <run_depend>world_canvas_server</run_depend>
   <run_depend>tf</run_depend>
 
   <!-- android_teleop -->

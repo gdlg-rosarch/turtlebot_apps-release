@@ -1,0 +1,74 @@
+ros-indigo-turtlebot-actions (2.3.3-0trusty) trusty; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Sun, 22 Mar 2015 15:00:00 -0000
+
+ros-indigo-turtlebot-actions (2.3.2-0trusty) trusty; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Tue, 20 Jan 2015 15:00:00 -0000
+
+ros-indigo-turtlebot-actions (2.3.1-0trusty) trusty; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-turtlebot-actions (2.3.0-0trusty) trusty; urgency=high
+
+  * Change build commands to fix break caused by Eigen package moving to cmake_modules
+  * find eigen with cmake_modules, fixes #88 <https://github.com/turtlebot/turtlebot_apps/issues/88>.
+  * update matrix types for image_geometry api change, #87 <https://github.com/turtlebot/turtlebot_apps/issues/87>.
+  * Contributors: Daniel Stonier, Paul Bouchier
+
+ -- OSRF <turtlebot@osrfoundation.org>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-turtlebot-actions (2.2.4-0trusty) trusty; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Sun, 13 Oct 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-actions (2.2.3-0trusty) trusty; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 26 Sep 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-actions (2.2.2-0trusty) trusty; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Wed, 25 Sep 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-actions (2.2.1-0trusty) trusty; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Sun, 22 Sep 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-actions (2.2.0-0trusty) trusty; urgency=high
+
+  * Add bugtracker and repo info URLs.
+  * Rename include launchers to *.launch.xml.
+  * Changelogs at package level.
+  * Do not use deprecated action server API.
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-actions (2.1.1-0trusty) trusty; urgency=high
+
+
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 08 Aug 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-actions (2.1.0-0trusty) trusty; urgency=high
+
+  * Catkinized
+  * Set OSRF as maintainer
+
+ -- OSRF <turtlebot@osrfoundation.org>  Thu, 18 Jul 2013 15:00:00 -0000
+
+

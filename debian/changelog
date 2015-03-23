@@ -1,0 +1,70 @@
+ros-indigo-turtlebot-apps (2.3.3-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Sun, 22 Mar 2015 15:00:00 -0000
+
+ros-indigo-turtlebot-apps (2.3.2-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Tue, 20 Jan 2015 15:00:00 -0000
+
+ros-indigo-turtlebot-apps (2.3.1-0saucy) saucy; urgency=high
+
+  * remove turtlebot_telop from meta package
+  * Contributors: Jihoon Lee
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-turtlebot-apps (2.3.0-0saucy) saucy; urgency=high
+
+  * turtlebot_core_apps -> turtlebot_rapps, #86 <https://github.com/turtlebot/turtlebot_apps/issues/86>
+  * Contributors: Daniel Stonier
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Mon, 29 Dec 2014 15:00:00 -0000
+
+ros-indigo-turtlebot-apps (2.2.4-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Sun, 13 Oct 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-apps (2.2.3-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 26 Sep 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-apps (2.2.2-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Wed, 25 Sep 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-apps (2.2.1-0saucy) saucy; urgency=high
+
+
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Sun, 22 Sep 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-apps (2.2.0-0saucy) saucy; urgency=high
+
+  * Changelogs at package level.
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 29 Aug 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-apps (2.1.1-0saucy) saucy; urgency=high
+
+  * Remove our beloved chirp app. Don't worry; it's now included on rocon_apps
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 08 Aug 2013 15:00:00 -0000
+
+ros-indigo-turtlebot-apps (2.1.0-0saucy) saucy; urgency=high
+
+  * Catkinized
+  * Needs to specify any individual panorama packages. Release complains if not
+
+ -- Daniel Stonier <stonier@rnd.yujinrobot.com>  Thu, 18 Jul 2013 15:00:00 -0000
+
+

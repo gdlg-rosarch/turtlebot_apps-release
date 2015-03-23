@@ -2,6 +2,11 @@
 Changelog for package turtlebot_navigation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.3.3 (2015-03-23)
+------------------
+* use env instead arg for map closes `#134 <https://github.com/turtlebot/turtlebot_apps/issues/134>`_
+* Contributors: roycho111
+
 2.3.2 (2015-01-21)
 ------------------
 

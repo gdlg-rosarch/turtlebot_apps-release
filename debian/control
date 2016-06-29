@@ -1,0 +1,12 @@
+Source: ros-kinetic-turtlebot-rapps
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <stonier@rnd.yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://ros.org/wiki/turtlebot_rapps
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-turtlebot-rapps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-compressed-image-transport, ros-kinetic-kobuki-auto-docking, ros-kinetic-robot-pose-publisher, ros-kinetic-tf, ros-kinetic-topic-tools, ros-kinetic-turtlebot-bringup, ros-kinetic-turtlebot-follower, ros-kinetic-turtlebot-navigation, ros-kinetic-turtlebot-teleop, ros-kinetic-warehouse-ros, ros-kinetic-world-canvas-server
+Description: The core set of turtlebot 'app manager' apps are defined in this package.

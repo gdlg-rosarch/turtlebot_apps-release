@@ -1,6 +1,6 @@
 <package>
   <name>turtlebot_apps</name>
-  <version>2.3.3</version>
+  <version>2.3.5</version>
   <description>
       turtlebot_apps is a group of simple demos and exmaples to run on your TurtleBot to help you get started with ROS and TurtleBot.
   </description>
@@ -16,15 +16,12 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <run_depend>pano_core</run_depend>
-  <run_depend>pano_py</run_depend>
-  <run_depend>pano_ros</run_depend>
   <run_depend>turtlebot_actions</run_depend>
   <run_depend>turtlebot_calibration</run_depend>
   <run_depend>turtlebot_rapps</run_depend>
   <run_depend>turtlebot_follower</run_depend>
   <run_depend>turtlebot_navigation</run_depend>
-  <run_depend>turtlebot_panorama</run_depend>
+  <!--run_depend>turtlebot_panorama</run_depend-->
 
   <export>
     <metapackage/> 

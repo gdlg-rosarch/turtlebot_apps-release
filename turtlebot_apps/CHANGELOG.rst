@@ -2,6 +2,9 @@
 Changelog for package turtlebot_apps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.3.6 (2016-06-29)
+------------------
+
 2.3.5 (2016-06-28)
 ------------------
 * removing unnecessary dependencies

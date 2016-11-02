@@ -2,6 +2,13 @@
 Changelog for package turtlebot_follower
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.3.7 (2016-11-01)
+------------------
+* fixed bad printf format
+* clean up cmake dependencies
+* Included depth_image_proc in cmake deps
+* Contributors: Mr-Yellow, Rohan Agrawal, Tully Foote
+
 2.3.6 (2016-06-29)
 ------------------
 * add dependency on depth_image_proc

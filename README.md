@@ -1,3 +1,32 @@
+## turtlebot_apps (kinetic) - 2.3.7-0
+
+The packages in the `turtlebot_apps` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release turtlebot_apps -r kinetic -t kinetic` on `Wed, 02 Nov 2016 00:31:45 -0000`
+
+These packages were released:
+- `turtlebot_actions`
+- `turtlebot_apps`
+- `turtlebot_calibration`
+- `turtlebot_follower`
+- `turtlebot_navigation`
+- `turtlebot_rapps`
+
+Version of package(s) in repository `turtlebot_apps`:
+
+- upstream repository: https://github.com/turtlebot/turtlebot_apps.git
+- release repository: https://github.com/turtlebot-release/turtlebot_apps-release.git
+- rosdistro version: `2.3.6-0`
+- old version: `2.3.6-0`
+- new version: `2.3.7-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## turtlebot_apps (indigo) - 2.3.7-0
 
 The packages in the `turtlebot_apps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release turtlebot_apps -r indigo -t indigo` on `Wed, 02 Nov 2016 00:27:42 -0000`

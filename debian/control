@@ -1,0 +1,12 @@
+Source: ros-indigo-turtlebot-actions
+Section: misc
+Priority: extra
+Maintainer: OSRF <turtlebot@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, ros-indigo-actionlib, ros-indigo-actionlib-msgs, ros-indigo-catkin, ros-indigo-cmake-modules, ros-indigo-cv-bridge, ros-indigo-geometry-msgs, ros-indigo-image-geometry, ros-indigo-image-transport, ros-indigo-message-generation, ros-indigo-roscpp, ros-indigo-tf
+Homepage: http://ros.org/wiki/turtlebot_actions
+Standards-Version: 3.9.2
+
+Package: ros-indigo-turtlebot-actions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, ros-indigo-actionlib, ros-indigo-actionlib-msgs, ros-indigo-cv-bridge, ros-indigo-geometry-msgs, ros-indigo-image-geometry, ros-indigo-image-transport, ros-indigo-message-runtime, ros-indigo-roscpp, ros-indigo-tf, ros-indigo-turtlebot-bringup
+Description: turtlebot_actions provides several basic actionlib actions for the TurtleBot.

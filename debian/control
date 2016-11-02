@@ -1,0 +1,12 @@
+Source: ros-indigo-turtlebot-rapps
+Section: misc
+Priority: extra
+Maintainer: Daniel Stonier <stonier@rnd.yujinrobot.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/turtlebot_rapps
+Standards-Version: 3.9.2
+
+Package: ros-indigo-turtlebot-rapps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-compressed-image-transport, ros-indigo-kobuki-auto-docking, ros-indigo-robot-pose-publisher, ros-indigo-tf, ros-indigo-topic-tools, ros-indigo-turtlebot-bringup, ros-indigo-turtlebot-follower, ros-indigo-turtlebot-navigation, ros-indigo-turtlebot-teleop, ros-indigo-warehouse-ros, ros-indigo-world-canvas-server
+Description: The core set of turtlebot 'app manager' apps are defined in this package.

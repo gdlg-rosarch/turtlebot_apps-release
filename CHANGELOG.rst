@@ -2,6 +2,37 @@
 Changelog for package turtlebot_navigation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.3.7 (2016-11-01)
+------------------
+* Parameterize AMCL and GMapping launch files for individual cameras.
+  Changed amcl_demo.launch and gmapping_demo.launch to use the
+  TURTLEBOT_3D_SENSOR environment variable to choose which version of
+  the XXXX_amcl.launch.xml, XXXX_costmap_param.yaml, and
+  XXXX_gmapping.launch.xml files it includes.
+  This is done to allow custom AMCL or GMapping parameters specific to
+  the 3D camera being used. These have also been parameterized to allow
+  you to pass an argument to override these values.
+  For cameras that do not have custom param files, their corresponding
+  launch files are simply symlinks to the default files.
+* remove superfluous leading '/' in topic names
+  These are not needed as all topics in question are in the
+  same namespace as the nodes. However, the '/' breaks namespacing,
+  so it becomes impossible to move the whole launch file into
+  a new namespace.
+* Contributors: Kevin Wells, v4hn
+
+2.3.6 (2016-06-29)
+------------------
+
+2.3.5 (2016-06-28)
+------------------
+
+2.3.4 (2016-06-28)
+------------------
+* Update CMakeLists.txt
+  catkin_package() must be called before add_executable().
+* Contributors: Jihoon Lee, commaster90
+
 2.3.3 (2015-03-23)
 ------------------
 * use env instead arg for map closes `#134 <https://github.com/turtlebot/turtlebot_apps/issues/134>`_

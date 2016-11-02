@@ -1,0 +1,12 @@
+Source: ros-indigo-turtlebot-navigation
+Section: misc
+Priority: extra
+Maintainer: OSRF <turtlebot@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-tf
+Homepage: http://ros.org/wiki/turtlebot_navigation
+Standards-Version: 3.9.2
+
+Package: ros-indigo-turtlebot-navigation
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-amcl, ros-indigo-dwa-local-planner, ros-indigo-gmapping, ros-indigo-map-server, ros-indigo-move-base, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-tf, ros-indigo-turtlebot-bringup
+Description: turtlebot_navigation
